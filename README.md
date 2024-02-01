@@ -1,9 +1,9 @@
 CTest
 
-Send sensor data from apple watch to iphone & 
-Health data from Healthkit collected from Apple watch
+Send sensor data from Apple watch to iPhone & 
+Health data from Healthkit collected from Apple Watch
 
-List of Sensor Data(Send the data every 1min to iphone)
+List of Sensor Data(Send the data every 1min to iPhone)
 -Accelerometer
 -DeviceMotion data including attitude, quaternion, and romationMatrix
 -Magnetometer if it's available
